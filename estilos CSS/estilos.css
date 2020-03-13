@@ -3,7 +3,14 @@ body
     color: black;
     text-align: right;
     font-family: "Arial";
-    font-size: 10px;
+    
+}
+
+#cabecera
+{
+    background-color : blue;
+    text-align: enter;
+
 }
 
 #container
