@@ -2,10 +2,6 @@ body
 {
     color: black;
     text-align: right;
-<<<<<<< HEAD
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 40px;
-=======
     font-family: "Arial";
     
 }
@@ -14,8 +10,6 @@ body
 {
     background-color : blue;
     text-align: enter;
-
->>>>>>> cabecera
 }
 
 #container
