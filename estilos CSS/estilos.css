@@ -2,8 +2,20 @@ body
 {
     color: black;
     text-align: right;
+<<<<<<< HEAD
     font-family: 'Times New Roman', Times, serif;
     font-size: 40px;
+=======
+    font-family: "Arial";
+    
+}
+
+#cabecera
+{
+    background-color : blue;
+    text-align: enter;
+
+>>>>>>> cabecera
 }
 
 #container
@@ -11,6 +23,6 @@ body
     width: 70%;
     padding:  lem;
     text-align: right;
-    border: 1px solid #dddddd;
+    border: 1px solid black;
     margin: 0 auto;
 }
