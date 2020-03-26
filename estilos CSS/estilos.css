@@ -1,7 +1,7 @@
 body
 {
     color: black;
-    text-align: right;
+    text-align: center;
     font-family: "Arial";
     
 }
@@ -9,7 +9,7 @@ body
 #cabecera
 {
     background-color : blue;
-    text-align: enter;
+    text-align: center;
 }
 
 #container
@@ -19,4 +19,14 @@ body
     text-align: right;
     border: 1px solid black;
     margin: 0 auto;
+    text-align: center;
+}
+
+#footer
+{
+    background-color: peru;
+    color: white;
+    text-align: center;
+    padding: 0.5cm;
+
 }
