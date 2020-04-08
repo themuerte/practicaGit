@@ -4,5 +4,5 @@ este repositorio se uso como paractica para el [curso de git y git hub](http://h
 
 # cretando el stash
 * creado por eduardo
-* inclute ejemplos en windows
+* incluye ejemplos en windows
 * disponibles para todas las edades 
